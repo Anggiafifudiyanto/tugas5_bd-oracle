@@ -1,5 +1,5 @@
 # 1.Membuat koneksi dari oracle ke Bahasa pemrograman
-![koneksi](https://user-images.githubusercontent.com/45707169/148665327-662597cf-d944-4d6c-ab45-25f454d25616.png)
+![koneksi](https://user-images.githubusercontent.com/45707169/148665734-acdcef14-b74a-451d-beca-a5182a845756.png)
 
 # 2.Membuat view dari database
 ![view](https://user-images.githubusercontent.com/45707169/148665521-9e057904-526a-4a08-9dc6-e9ad2fbde4f1.png)
