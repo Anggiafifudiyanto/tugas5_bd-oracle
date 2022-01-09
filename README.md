@@ -4,7 +4,7 @@
 # 2.Membuat view dari database
 ![view](https://user-images.githubusercontent.com/45707169/148665521-9e057904-526a-4a08-9dc6-e9ad2fbde4f1.png)
 
-![view siswa kelas 4](https://user-images.githubusercontent.com/45707169/148665534-33bf9b28-2eda-4b02-b3e3-8fad4b94602e.png)
+![view siswa kelas 4](https://user-images.githubusercontent.com/45707169/148665985-68a94ece-0775-48f0-a002-a1d29e5bdec3.png)
 
 # 3.Halaman Home/Beranda
 ![home](https://user-images.githubusercontent.com/45707169/148665558-8ebb3218-e6ea-44fe-bd68-b518a83d6697.png)
